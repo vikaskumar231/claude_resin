@@ -19,3 +19,6 @@ Home, Shop (category chips, search), product page with gallery and enquiry form,
 Open http://localhost:3000 (site) and http://localhost:3000/admin (admin). Chat button follows the `enquiry_mode` setting.
 Admin tabs: Enquiries, Products (publish/unpublish, edit price, delete), Add product (photos, tags, draft or publish), Categories (show/hide).
 Not yet: video, email alerts, 6-month erasure job, product text/photo editing after creation, category covers, tests.
+=======
+# claude_resin
+This is the skeleton website being created by claude code
